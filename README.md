@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Jgabriel0145">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jgabriel0145&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jgabriel0145&show_icons=true&bg_color=30,0069CC,0088D9,00A4CF,00BEB3,00D58C&title_color=F2F068&text_color=FFFFFF&icon_color=F2F068&hide_border=true&count_private=true&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgabriel0145&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
